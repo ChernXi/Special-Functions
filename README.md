@@ -7,7 +7,9 @@ The most materials from this repository are getting from "Mathematical Methods i
 The Factorial Function is given as:
 $$\int_{0}^{\infty} x^n e^{-x} dx = n!$$
 Boas using a heuristic method to describe how to get the factorial function.<br>
-However, the Factorial Function is really a direct result of applying the integration by part, as shown below. 
+However, the Factorial Function is really a direct result of applying the integration by part, as shown below. <br>
+From the definition of integration by part, we have: 
+$$\int_a^b u \frac{dv}{dx} dx = \left.uv\right\vert_a^b - \int_a^b v \frac{du}{dx} dx $$
 
 
 
