@@ -22,7 +22,7 @@ $$\begin{aligned}
 \int_0^{\infty} x^n e^{-x} dx &= n\int_0^{\infty}  x^{n-1} e^{-x} dx \\ 
 &= n(n-1)\int_0^{\infty} x^{n-2} e^{-x} dx \\
 &= n(n-1)(n-2) \int_0^{\infty} x^{n-3} e^{-x} dx \\
-&= n(n-1)(n-2)...(n-(n-1)) \int_0^{\infty} x^(n-n) e^{-x} dx \\
+&= n(n-1)(n-2)...(n-(n-1)) \int_0^{\infty} x^{n-n} e^{-x} dx \\
 &= n(n-1)(n-2)...(1) \int_0^{\infty} e^{-x} dx \\
 &= n! \underbrace{\left(-e^{-x})\right\vert_0^{\infty}}_\text{=1} \\
 &= n! \\
