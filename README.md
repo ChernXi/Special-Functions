@@ -5,7 +5,7 @@ The most materials from this repository are getting from "Mathematical Methods i
 Personally I highly recommend to use the books below as the textbook to study the Mathematical Physics:<br>
 [Mathematical Methods for Physicists: A Comprehensive Guide 7th Edition](https://www.amazon.com/Mathematical-Methods-Physicists-Comprehensive-Guide/dp/0123846544) <br>
 [Mathematical Methods in the Physical Sciences 3rd Edition](https://www.amazon.com/Mathematical-Methods-Physical-Sciences-Mary/dp/0471198269)
-### For those student who really under poverty line, you may get the e-book from https://libgen.is/ to study the material and remember to buy the book once you have enough financial resource. 
+### For those students who are really under poverty line, you may get the e-book from https://libgen.is/ to study the material and remember to buy the book once you have enough financial resources. 
 
 ## The Factorial Function
 The Factorial Function is given as:
