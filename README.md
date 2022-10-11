@@ -13,7 +13,7 @@ From the definition of integration by part, we have:
 $$ \int_a^b u \frac{dv}{dx} dx = \left.uv\right\vert_a^b - \int_a^b v \frac{du}{dx} dx $$
 
 Take $u=x^n$ and $\frac{dv}{dx}=e^{-x}$, we have $\frac{du}{dx}=nx^{n-1}$ and $v=-e^{-x}$.<br>
-Substitute them into the integration by part, give:
+Substitute them into the integration by part formula, we get:
 
 $$ \int_0^{\infty} x^n e^{-x} dx = \underbrace{\left.x^n(-e^{-x})\right\vert_0^{\infty}}_\text{=0} - n\int_0^{\infty} (-e^{-x}) x^{n-1} dx $$
 
